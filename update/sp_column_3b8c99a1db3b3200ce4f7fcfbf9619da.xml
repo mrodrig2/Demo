@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_column">
+    <sp_column action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>2</order>
+        <size>3</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">bf8c99a1db3b3200ce4f7fcfbf9619d7</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-06 14:33:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3b8c99a1db3b3200ce4f7fcfbf9619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Active Directory" source="x_139686_active_di">8215cb70db333200ce4f7fcfbf96199a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Active Directory">8215cb70db333200ce4f7fcfbf96199a</sys_scope>
+        <sys_update_name>sp_column_3b8c99a1db3b3200ce4f7fcfbf9619da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-06 14:33:25</sys_updated_on>
+    </sp_column>
+</record_update>

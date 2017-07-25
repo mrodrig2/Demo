@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="scheduled_import_set">
+    <scheduled_import_set action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition/>
+        <conditional>false</conditional>
+        <data_source display_value="/Users">c6fae22ddbbb3200ce4f7fcfbf9619cd</data_source>
+        <map/>
+        <name>/Users Import</name>
+        <order/>
+        <parent/>
+        <post_script/>
+        <post_script_bool>false</post_script_bool>
+        <pre_script/>
+        <pre_script_bool>false</pre_script_bool>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_period/>
+        <run_start>2017-07-06 20:16:00</run_start>
+        <run_time/>
+        <run_type>daily</run_type>
+        <sys_class_name>scheduled_import_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-06 20:16:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c2fae22ddbbb3200ce4f7fcfbf9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>/Users Import</sys_name>
+        <sys_package display_value="Active Directory" source="x_139686_active_di">8215cb70db333200ce4f7fcfbf96199a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Active Directory">8215cb70db333200ce4f7fcfbf96199a</sys_scope>
+        <sys_update_name>scheduled_import_set_c2fae22ddbbb3200ce4f7fcfbf9619cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-06 20:16:00</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </scheduled_import_set>
+</record_update>

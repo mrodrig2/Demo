@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="test" max_length="40" name="x_139686_active_di_test" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Article" mandatory="true" max_length="125" name="u_article" type="string"/>
+        <element label="Arrival date" max_length="40" name="u_glide_arrival_date_1" type="glide_date"/>
+    </element>
+</database>

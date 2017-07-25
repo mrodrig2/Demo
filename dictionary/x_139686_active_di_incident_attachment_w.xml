@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Incident Attachment WS" max_length="40" name="x_139686_active_di_incident_attachment_w" type="collection"/>
+</database>

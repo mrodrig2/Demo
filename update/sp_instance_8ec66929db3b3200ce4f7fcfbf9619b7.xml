@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">378c99a1db3b3200ce4f7fcfbf9619d9</sp_column>
+        <sp_widget display_value="Weather">68ab7240d7223100a9ad1e173e24d433</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-06 15:18:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8ec66929db3b3200ce4f7fcfbf9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Active Directory" source="x_139686_active_di">8215cb70db333200ce4f7fcfbf96199a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Active Directory">8215cb70db333200ce4f7fcfbf96199a</sys_scope>
+        <sys_update_name>sp_instance_8ec66929db3b3200ce4f7fcfbf9619b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-06 15:18:06</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=8ec66929db3b3200ce4f7fcfbf9619b7"/>
+</record_update>

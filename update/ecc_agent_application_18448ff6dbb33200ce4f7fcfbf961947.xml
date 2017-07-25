@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ecc_agent_application">
+    <ecc_agent_application action="INSERT_OR_UPDATE">
+        <default_mid_server display_value="MIDServer2">27e29c46db333200ce4f7fcfbf961966</default_mid_server>
+        <included_in_app_all>true</included_in_app_all>
+        <name>Active Directory App</name>
+        <sys_class_name>ecc_agent_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-10 19:19:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>18448ff6dbb33200ce4f7fcfbf961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Active Directory App</sys_name>
+        <sys_package display_value="Active Directory" source="x_139686_active_di">8215cb70db333200ce4f7fcfbf96199a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Active Directory">8215cb70db333200ce4f7fcfbf96199a</sys_scope>
+        <sys_update_name>ecc_agent_application_18448ff6dbb33200ce4f7fcfbf961947</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-10 19:19:27</sys_updated_on>
+    </ecc_agent_application>
+</record_update>

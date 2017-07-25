@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_title" label="Title" language="en" table="var__m_var_dictionary_9a5d834ddb800300ce4f7fcfbf9619ac">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_title</element>
+            <help/>
+            <hint/>
+            <label>Title</label>
+            <language>en</language>
+            <name>var__m_var_dictionary_9a5d834ddb800300ce4f7fcfbf9619ac</name>
+            <plural>Title</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 20:23:23</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c7bfdceddb800300ce4f7fcfbf96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Title</sys_name>
+            <sys_package display_value="Active Directory" source="x_139686_active_di">8215cb70db333200ce4f7fcfbf96199a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Active Directory">8215cb70db333200ce4f7fcfbf96199a</sys_scope>
+            <sys_update_name>sys_documentation_var__m_var_dictionary_9a5d834ddb800300ce4f7fcfbf9619ac_u_title_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 20:23:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
